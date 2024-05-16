@@ -1,4 +1,5 @@
-# DuckDB Extension Template
+# WIP - DuckDB extension to run GQL queries on graphs stored in relational tables
+# Generated From DuckDB Extension Template
 This repository contains a template for creating a DuckDB extension. The main goal of this template is to allow users to easily develop, test and distribute their own DuckDB extension. The main branch of the template is always based on the latest stable DuckDB allowing you to try out your extension right away.
 
 ## Getting started
